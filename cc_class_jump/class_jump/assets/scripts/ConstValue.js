@@ -1,0 +1,1 @@
+export const LEADERBOARD_SOCRE_WORLD = "score_world";
