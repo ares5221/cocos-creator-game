@@ -1,0 +1,24 @@
+{
+  "appKey": "",
+  "appSecret": "",
+  "excludeScenes": [],
+  "includeAnySDK": false,
+  "includeSdk": [
+    "anysdk"
+  ],
+  "inlineSpriteFrames": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.AudioControlGame",
+  "privateKey": "",
+  "renderMode": "0",
+  "startScene": "b05ca79a-df08-4cbd-a4ef-ecab010d57df",
+  "title": "AudioControlGame",
+  "webOrientation": "auto"
+}
