@@ -1,0 +1,17 @@
+{
+  "excludeScenes": [],
+  "includeAnySDK": false,
+  "includeSdk": [
+    "anysdk"
+  ],
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.TankWar",
+  "startScene": "1a638409-0db1-4127-bac7-947b76afed54",
+  "title": "TankWar",
+  "webOrientation": "auto"
+}

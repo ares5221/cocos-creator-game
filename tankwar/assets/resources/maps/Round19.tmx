@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="26" height="26" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="landform" tilewidth="16" tileheight="16">
+  <image source="landform/landform.png" trans="000000" width="96" height="96"/>
+ </tileset>
+ <tileset firstgid="37" name="grass" tilewidth="16" tileheight="16">
+  <image source="landform/grass.png" trans="000000" width="32" height="32"/>
+ </tileset>
+ <tileset firstgid="41" name="blank" tilewidth="16" tileheight="16">
+  <image source="landform/blank.png" trans="000000" width="32" height="32"/>
+ </tileset>
+ <layer name="layer_0" width="26" height="26">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC81Wiw7CIAwkAR+bj8RHov//pZZoIzk5KArqJZethUJ7NGPO3bET7t0TvW3FSXgeaI/K/9f1LITLgfa/gOlsHWfzrOfZGl/z19bR81Y/nn/N38v+Vt9ZsRFuPxhXBCACdfAwj/WJTxjnz0AE6ov7MP2nhHMSx4h95wt+xpDsx6j56lPj0D8VaKknx1Lu79aTYyl3Vk8NOf2Dez0n6zrMRv1Rh97fEwX2dWu89T5kevf6P1g/nqvkvSW+JR92V1jjrYhrH4RHkmsvxPwuwqtrz/UGcUMJYZAKAAA=
+  </data>
+ </layer>
+ <layer name="layer_1" width="26" height="26">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+2SSwoAIQxDhelG739gXYbgMFG7cciDtys0/ZRijDH/5BkGqNYrdWgdNjCrTyV5Hlbtw/nRmMzDqn04P9o+cmQZL/2zVe6O+5rdMhvMtvKfu6h/fcrqvs0ddLQhkz+QCgAA
+  </data>
+ </layer>
+</map>

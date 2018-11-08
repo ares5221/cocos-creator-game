@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="26" height="26" tilewidth="16" tileheight="16" nextobjectid="1">
+ <tileset firstgid="1" name="landform" tilewidth="16" tileheight="16" tilecount="36" columns="6">
+  <image source="landform/landform.png" trans="000000" width="96" height="96"/>
+ </tileset>
+ <layer name="layer_0" width="26" height="26">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA7WUjWrDMAyEZcNmQ7fB1kILff/3nAMRHN/kKM2I4WgV/5zOZ+lpZs8T4eNMjojnc+DrYGwSl4EqMXmuA7eDsUnsPB7v1dNWnK2H+b0NvGN9kbge1MP8LgMfWK96+4r/6vF71PVtY/5VPb6/y2/fof9VPUX+O6L92Xubgfn19Rv1763TsoHMH4VrLeCZ1QnvWzmbgP5k75R58r59nlrpD/fxfH1Pjmp/83Iu+tNkj0LP1vzISX/8fPrTJ/BBXxhTD/noT7W4fjxvvddm83roWE9/OF/Bo/lv6cn6d8V8B89ePezHkZ6ov1HPzJ/s3tSPZrk/PEfrM+oV1OMj88cH64W14N+z96Z1pPkzH62lqLdk783jqN8TXufL2d8DPwFP1oejfjPDkt994CFate/MsOz9BReUSMOQCgAA
+  </data>
+ </layer>
+ <objectgroup name="tank"/>
+ <objectgroup name="bullet"/>
+ <layer name="layer_1" width="26" height="26">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA2NgGAVDGTADMcuoPaP2jNozas+oPaP2QAEnEHPRwZ5RMAqoCQBMy/sVkAoAAA==
+  </data>
+ </layer>
+</map>

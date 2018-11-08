@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="26" height="26" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="landform" tilewidth="16" tileheight="16">
+  <image source="landform/landform.png" trans="000000" width="96" height="96"/>
+ </tileset>
+ <tileset firstgid="37" name="grass" tilewidth="16" tileheight="16">
+  <image source="landform/grass.png" trans="000000" width="32" height="32"/>
+ </tileset>
+ <tileset firstgid="41" name="blank" tilewidth="16" tileheight="16">
+  <image source="landform/blank.png" trans="000000" width="32" height="32"/>
+ </tileset>
+ <layer name="layer_0" width="26" height="26">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+2TSQqAMAxFu6kbxQmn+5/ULBIon2jIQqihDx6d0kX5TUoxyWwHTuSs7HsVenYAd/JQ9r1GIxtKPladppbLk5KPVacZMRek9U+d/KF/snE3Yi5I6586wX8uaxnLfPAM776B/1zWMpb54NlXPTKSC7ny3PMeDxt5khfPPe+5AXEw4PCQCgAA
+  </data>
+ </layer>
+ <layer name="layer_1" width="26" height="26" visible="0">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3BMQEAAADCoPVPbQwfoAAA4GcZ1LptkAoAAA==
+  </data>
+ </layer>
+</map>
