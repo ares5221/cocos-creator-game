@@ -1,0 +1,17 @@
+{
+  "excludeScenes": [],
+  "includeAnySDK": false,
+  "includeSdk": [
+    "anysdk"
+  ],
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.snake",
+  "startScene": "014ee849-def7-4185-a4c7-a9723d69e31a",
+  "title": "snake",
+  "webOrientation": "landscape"
+}
