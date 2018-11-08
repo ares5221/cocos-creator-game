@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "panda_jump_02",
+    "texture": "f8efa3d1-5bf6-40f0-99ef-6864a510e8c0",
+    "atlas": "5df4bc97-1f27-4880-8938-4b41470d1542",
+    "rect": [
+      2,
+      287,
+      67,
+      93
+    ],
+    "offset": [
+      -1,
+      0
+    ],
+    "originalSize": [
+      79,
+      93
+    ]
+  }
+}

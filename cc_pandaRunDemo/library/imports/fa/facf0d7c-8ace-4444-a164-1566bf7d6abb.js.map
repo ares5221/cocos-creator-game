@@ -1,0 +1,12 @@
+{
+  "version": 3,
+  "sources": [
+    "unknown"
+  ],
+  "names": [],
+  "mappings": "AAAA,EAAE,CAAC,KAAK,CAAC;AACL,eAAS,EAAE,CAAC,SAAS;;AAErB,cAAU,EAAE;;;;;;;;;;;;AAYR,0BAAkB,EAAE,IAAI;AACxB,0BAAkB,EAAE,EAAE,CAAC,IAAI;AAC3B,0BAAkB,EAAE,EAAE,CAAC,IAAI;KAC9B;;;AAGD,UAAM,EAAE,kBAAY;AAChB,YAAI,uBAAuB,GAAG,EAAE,CAAC,IAAI,CAAC,oBAAoB,CAAC,CAAA;AAC3D,YAAI,CAAC,kBAAkB,GAAG,uBAAuB,CAAC,YAAY,CAAC,oBAAoB,CAAC,CAAC;AACrF,YAAI,CAAC,kBAAkB,CAAC,aAAa,CAAC,CAAC,IAAI,CAAC,kBAAkB,EAAE,IAAI,CAAC,kBAAkB,CAAC,CAAC,CAAC;KAC7F;;CAMJ,CAAC,CAAC",
+  "file": "unknown",
+  "sourcesContent": [
+    "cc.Class({\n    extends: cc.Component,\n\n    properties: {\n        // foo: {\n        //    default: null,      // The default value will be used only when the component attaching\n        //                           to a node for the first time\n        //    url: cc.Texture2D,  // optional, default is typeof default\n        //    serializable: true, // optional, default is true\n        //    visible: true,      // optional, default is true\n        //    displayName: 'Foo', // optional\n        //    readonly: false,    // optional, default is false\n        // },\n        // ...\n\n        platform_generator: null,\n        platform_default_0: cc.Node,\n        platform_default_1: cc.Node\n    },\n\n    // use this for initialization\n    onLoad: function () {\n        var platform_generator_node = cc.find(\"platform-generator\")\n        this.platform_generator = platform_generator_node.getComponent(\"platform-generator\");\n        this.platform_generator.initPlatforms([this.platform_default_0, this.platform_default_1]);\n    },\n\n    // called every frame, uncomment this function to activate update callback\n    // update: function (dt) {\n\n    // },\n});\n"
+  ]
+}

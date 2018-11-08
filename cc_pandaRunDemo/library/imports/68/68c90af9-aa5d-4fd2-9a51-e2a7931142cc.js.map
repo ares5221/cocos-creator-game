@@ -1,0 +1,12 @@
+{
+  "version": 3,
+  "sources": [
+    "unknown"
+  ],
+  "names": [],
+  "mappings": "AAAA,EAAE,CAAC,KAAK,CAAC;AACL,eAAS,EAAE,CAAC,SAAS;;AAErB,cAAU,EAAE;AACR,kBAAU,EAAE,EAAE,CAAC,KAAK;AACpB,eAAO,EAAE,CAAC;KACb;;;AAGD,UAAM,EAAE,kBAAY,EAEnB;;AAED,WAAO,EAAE,mBAAW;AAChB,YAAI,CAAC,OAAO,EAAE,CAAC;AACf,YAAI,CAAC,UAAU,CAAC,MAAM,GAAG,IAAI,CAAC,OAAO,GAAG,EAAE,CAAC;KAC9C;;CAMJ,CAAC,CAAC",
+  "file": "unknown",
+  "sourcesContent": [
+    "cc.Class({\n    extends: cc.Component,\n\n    properties: {\n        gold_label: cc.Label,\n        goldNum: 0,\n    },\n\n    // use this for initialization\n    onLoad: function () {\n\n    },\n\n    addGold: function() {\n        this.goldNum++;\n        this.gold_label.string = this.goldNum + \"\";\n    },\n\n    // called every frame, uncomment this function to activate update callback\n    // update: function (dt) {\n\n    // },\n});\n"
+  ]
+}

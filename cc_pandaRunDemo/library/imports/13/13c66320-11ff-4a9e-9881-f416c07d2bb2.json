@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "near-bg",
+    "texture": "787c339c-fec6-4742-bff2-24de7ff47050",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1600,
+      189
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1600,
+      189
+    ]
+  }
+}

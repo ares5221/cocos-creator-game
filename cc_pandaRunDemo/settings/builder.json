@@ -1,0 +1,13 @@
+{
+  "excludeScenes": [],
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.panda-run",
+  "startScene": "3bb62552-fe87-4801-8618-aca86e194633",
+  "title": "panda-run",
+  "webOrientation": "auto"
+}

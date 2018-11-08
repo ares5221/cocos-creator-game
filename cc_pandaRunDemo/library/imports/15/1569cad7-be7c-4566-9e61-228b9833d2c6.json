@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "far-bg1",
+    "texture": "e56a51a1-9114-4d4d-9aa2-ff5082459e28",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1142,
+      780
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1142,
+      780
+    ]
+  }
+}

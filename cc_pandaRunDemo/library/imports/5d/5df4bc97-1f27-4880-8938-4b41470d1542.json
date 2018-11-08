@@ -1,0 +1,80 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "panda.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "panda_jump_01": {
+      "__uuid__": "9b6cf2de-7bfb-4494-b340-f73c11799190"
+    },
+    "panda_jump_02": {
+      "__uuid__": "cf7506aa-4f60-4329-9190-35592d326e2f"
+    },
+    "panda_jump_03": {
+      "__uuid__": "97ea2993-e59b-4083-8e7b-7fc3c8371d76"
+    },
+    "panda_jump_04": {
+      "__uuid__": "a970abde-9a15-4784-898b-b989f4efbc41"
+    },
+    "panda_jump_05": {
+      "__uuid__": "e5e8e8b9-de06-4c5a-913c-c784dab3baa8"
+    },
+    "panda_jump_06": {
+      "__uuid__": "2ad741f8-f22c-4253-b494-97b1c9d3c79f"
+    },
+    "panda_jump_07": {
+      "__uuid__": "6e293ca4-62c4-406a-9e00-c545847ca8ec"
+    },
+    "panda_jump_08": {
+      "__uuid__": "b685cfd3-473a-4bd0-895c-58fd17897d7d"
+    },
+    "panda_roll_01": {
+      "__uuid__": "d29d9e5c-ac7a-4d09-9a31-2446bdf0e236"
+    },
+    "panda_roll_02": {
+      "__uuid__": "d3c28365-d119-4b28-8773-ccbe29a2ffd4"
+    },
+    "panda_roll_03": {
+      "__uuid__": "f4355397-a009-4b57-aa4a-d38892037f6a"
+    },
+    "panda_roll_04": {
+      "__uuid__": "10439767-782b-4e47-a7e5-cd9d2e79c9d3"
+    },
+    "panda_roll_05": {
+      "__uuid__": "6abe7955-da70-4a4c-952f-c6ef3a735eaf"
+    },
+    "panda_roll_06": {
+      "__uuid__": "565799f2-6661-4a87-a072-ffcbd0f60d3e"
+    },
+    "panda_roll_07": {
+      "__uuid__": "104fd948-a979-49cd-a845-b9186c0b9181"
+    },
+    "panda_roll_08": {
+      "__uuid__": "763bfb91-270b-4fb4-871f-6163f962fd11"
+    },
+    "panda_run_01": {
+      "__uuid__": "c1b114d9-9ae5-4675-b712-9d2b52e1fec9"
+    },
+    "panda_run_02": {
+      "__uuid__": "cbb4dfc1-48cc-471a-b0d0-eaaa00d9e2ee"
+    },
+    "panda_run_03": {
+      "__uuid__": "1c9ff7aa-8c50-4c19-ad24-819b48dc6a60"
+    },
+    "panda_run_04": {
+      "__uuid__": "b9db3e09-d9ec-476b-953c-4b944bbc614b"
+    },
+    "panda_run_05": {
+      "__uuid__": "2ccae31c-2082-47bc-9337-054583ffb74e"
+    },
+    "panda_run_06": {
+      "__uuid__": "82884694-b969-4cf8-9590-cedee816fedb"
+    },
+    "panda_run_07": {
+      "__uuid__": "86a331ce-acf0-4360-b8cf-a983dac325fe"
+    },
+    "panda_run_08": {
+      "__uuid__": "26cdea00-415a-4707-9c8f-8631a321fd39"
+    }
+  }
+}
