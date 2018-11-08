@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "doushi11",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1,
+  "sample": 6,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "7598e0bc-4b88-46f9-a305-8fbd03b25223"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "1ef792ef-598a-4692-b3ac-2cad015c9ecf"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "e2569edc-10b6-401c-bcdf-5e6f67aa0761"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "da6441dd-5344-4fd3-92f4-03e3336c0567"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "2fddedaf-762a-4770-8f79-a081f2993ddc"
+            }
+          },
+          {
+            "frame": 0.8333333333333334,
+            "value": {
+              "__uuid__": "9adecf10-4184-4d00-bc11-e4554a141738"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

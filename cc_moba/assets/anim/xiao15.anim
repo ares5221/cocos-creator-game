@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "xiao15",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1,
+  "sample": 6,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "233f1138-ad6c-47d4-ba99-81ccaaa4875f"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "daa8b0af-e2ac-4898-91e8-cafef3f903d8"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "06b89ee8-36b4-4f74-8321-b7b76d32321f"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "8958cb08-7c9f-45f0-ae28-62c608286c4e"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "26842df2-471b-4f40-abfa-8f89c2c595e3"
+            }
+          },
+          {
+            "frame": 0.8333333333333334,
+            "value": {
+              "__uuid__": "e2a387bd-342a-4133-aec9-2cf83afe00a2"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

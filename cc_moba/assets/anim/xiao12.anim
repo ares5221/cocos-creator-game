@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "xiao12",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.1666666666666667,
+  "sample": 6,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "df5674eb-b55a-457c-870c-377f9ac2b69e"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "38acf828-8b25-41fc-aca0-c83a04989fd5"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "c922a74c-9fbd-4c74-a9c3-28a10f585f7e"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "d9328cab-a389-48a1-ac4b-01ed35a43d1f"
+            }
+          },
+          {
+            "frame": 0.8333333333333334,
+            "value": {
+              "__uuid__": "456931a7-2fb7-4a80-b831-6c3019e5a031"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "dab625de-b17f-44b7-8cc7-6dcddc725f7e"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
