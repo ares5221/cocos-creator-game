@@ -1,0 +1,101 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "enterLayerAnimation",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 15.983333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "gameLabel": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": 0,
+              "curve": [
+                0.81,
+                0.15,
+                0.44,
+                0.91
+              ]
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": 555
+            }
+          ]
+        }
+      },
+      "buttonNode": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": 0,
+              "curve": [
+                0.55,
+                -0.01,
+                0.49,
+                0.99
+              ]
+            },
+            {
+              "frame": 0.4166666666666667,
+              "value": -598
+            }
+          ]
+        }
+      },
+      "skipbutton": {
+        "props": {
+          "y": [
+            {
+              "frame": 0.4166666666666667,
+              "value": -637,
+              "curve": [
+                0.64,
+                0.13,
+                0.54,
+                1.45
+              ]
+            },
+            {
+              "frame": 0.75,
+              "value": -450
+            }
+          ]
+        }
+      },
+      "zimu": {
+        "props": {
+          "y": [
+            {
+              "frame": 0.4166666666666667,
+              "value": -1062
+            },
+            {
+              "frame": 15,
+              "value": 1051
+            }
+          ]
+        }
+      }
+    },
+    "props": {
+      "opacity": [
+        {
+          "frame": 15.016666666666667,
+          "value": 255
+        },
+        {
+          "frame": 15.983333333333333,
+          "value": 0
+        }
+      ]
+    }
+  },
+  "events": []
+}

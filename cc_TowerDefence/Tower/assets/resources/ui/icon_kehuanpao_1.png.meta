@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "906f6812-3211-44e1-b05a-8c02698385be",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "icon_kehuanpao_1": {
+      "ver": "1.0.3",
+      "uuid": "e08c6954-51c2-4d8a-b2a7-52dfdfb542f8",
+      "rawTextureUuid": "906f6812-3211-44e1-b05a-8c02698385be",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -6,
+      "offsetY": 3,
+      "trimX": 6,
+      "trimY": 2,
+      "width": 80,
+      "height": 96,
+      "rawWidth": 104,
+      "rawHeight": 106,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

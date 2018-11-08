@@ -1,0 +1,47 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "towerinformationAnimation",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.17,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 100,
+          "curve": [
+            -0.02,
+            0.54,
+            0.5,
+            1
+          ]
+        },
+        {
+          "frame": 0.16666666666666666,
+          "value": 255
+        }
+      ],
+      "scaleX": [
+        {
+          "frame": 0,
+          "value": 0.5,
+          "curve": [
+            -0.01,
+            0.62,
+            0.46,
+            1.01
+          ]
+        },
+        {
+          "frame": 0.16666666666666666,
+          "value": 1
+        }
+      ]
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,7 @@
+[
+  {"":"1","express":"600","attack":"100","attackspeed":"60","range":"200","requirepower":"200"},
+  {"":"2","express":"1000","attack":"120","attackspeed":"80","range":"230","requirepower":"220"},
+  {"":"3","express":"1500","attack":"150","attackspeed":"100","range":"270","requirepower":"240"},
+  {"":"4","express":"2100","attack":"190","attackspeed":"120","range":"320","requirepower":"260"},
+  {"":"5","express":"2800","attack":"240","attackspeed":"140","range":"380","requirepower":"280"}
+]

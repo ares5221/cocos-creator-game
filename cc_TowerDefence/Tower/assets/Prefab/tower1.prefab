@@ -1,0 +1,159 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "",
+    "_objFlags": 0,
+    "_rawFiles": null,
+    "data": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "tower1",
+    "_objFlags": 0,
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "a": 255
+    },
+    "_cascadeOpacityEnabled": true,
+    "_parent": null,
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0.5,
+      "y": 0.5
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 256,
+      "height": 256
+    },
+    "_children": [],
+    "_rotationX": 0,
+    "_rotationY": 0,
+    "_scaleX": 0.48,
+    "_scaleY": 0.48,
+    "_position": {
+      "__type__": "cc.Vec2",
+      "x": 137,
+      "y": 305
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "_localZOrder": 0,
+    "_globalZOrder": 0,
+    "_tag": -1,
+    "_opacityModifyRGB": false,
+    "_id": "",
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 2
+      },
+      {
+        "__id__": 3
+      }
+    ],
+    "_prefab": {
+      "__id__": 4
+    },
+    "groupIndex": 0
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "_spriteFrame": {
+      "__uuid__": "dd6d98c8-ef7a-44ac-b4d7-5a1dffa3b416"
+    },
+    "_type": 0,
+    "_sizeMode": 1,
+    "_fillType": 0,
+    "_fillCenter": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 0
+    },
+    "_fillStart": 0,
+    "_fillRange": 0,
+    "_isTrimmedMode": true,
+    "_srcBlendFactor": 770,
+    "_dstBlendFactor": 771,
+    "_atlas": null
+  },
+  {
+    "__type__": "db66cYD/2lHoLw5x1kwhkWM",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "TowerSpriteFrames": [
+      {
+        "__uuid__": "dd6d98c8-ef7a-44ac-b4d7-5a1dffa3b416"
+      },
+      {
+        "__uuid__": "f4299737-8428-4c9e-a167-650fe4e524fc"
+      },
+      {
+        "__uuid__": "00fd397b-e22c-4d4a-b369-211deb1231e4"
+      },
+      {
+        "__uuid__": "4a5085d2-967e-4ecc-8c2c-4b747b83d138"
+      },
+      {
+        "__uuid__": "80d94669-ac23-4e42-bbe2-f21d7bd0aec3"
+      },
+      {
+        "__uuid__": "b0052740-02fd-4be1-b5d3-c2a5301b0eab"
+      },
+      {
+        "__uuid__": "0a5c05e9-8b57-4118-9a17-2e2739fda3ac"
+      },
+      {
+        "__uuid__": "7d72b1dd-dfc5-4b60-b5a0-8787847f0dbc"
+      },
+      {
+        "__uuid__": "b70623c7-ecfe-459b-baf4-6b31d7b65129"
+      },
+      {
+        "__uuid__": "f8fea347-bd79-4bc6-862e-0b988ddbfaa7"
+      },
+      {
+        "__uuid__": "423da1e0-f082-43c7-8b9e-0a201ce09fda"
+      },
+      {
+        "__uuid__": "c6655f80-287e-49ad-9c5a-0433a4d58330"
+      }
+    ],
+    "Range": 130,
+    "BuildCost": 100,
+    "UpdateCostRate": 1.8,
+    "SellRate": 0.6,
+    "Bullet": {
+      "__uuid__": "80350a4a-6b36-4d7d-8fff-eba0c5eef0e7"
+    },
+    "HitRate": 0.8,
+    "AttackSpeed": 600
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__uuid__": "3b3f9bb7-ffd7-4df5-8a23-a3734404891a"
+    },
+    "fileId": "16dfeUPIhdOnrGcDA515Znd",
+    "sync": false
+  }
+]

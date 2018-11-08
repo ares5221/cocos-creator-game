@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "de24711f-6779-4a76-a05a-c2a8b7380c3e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "icon_jindapao_1": {
+      "ver": "1.0.3",
+      "uuid": "93c24cbf-092a-411e-84d8-8bf28ec4014b",
+      "rawTextureUuid": "de24711f-6779-4a76-a05a-c2a8b7380c3e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 104,
+      "height": 106,
+      "rawWidth": 104,
+      "rawHeight": 106,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

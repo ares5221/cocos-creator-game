@@ -1,0 +1,177 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "selectedLayeAniamtion",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.7666666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "uiLayer/LeftList/view/content/icon_tower": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": -222,
+              "curve": [
+                0.3,
+                0.3,
+                0.38,
+                1.49
+              ]
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 0
+            },
+            {
+              "frame": 1.5,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "uiLayer/LeftList/view/content/icon_tower_1": {
+        "props": {
+          "x": [
+            {
+              "frame": 0.16666666666666666,
+              "value": -224,
+              "curve": [
+                0.3,
+                0.3,
+                0.53,
+                1.36
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": -2
+            },
+            {
+              "frame": 1.7666666666666666,
+              "value": -2
+            }
+          ]
+        }
+      },
+      "uiLayer/TowerMenu": {
+        "props": {
+          "y": [
+            {
+              "frame": 0.25,
+              "value": -915,
+              "curve": [
+                0.3,
+                0.3,
+                0.36,
+                1.34
+              ]
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "selecter_titleLabel": {
+        "props": {
+          "y": [
+            {
+              "frame": 0.5,
+              "value": 585.0465170155695,
+              "curve": [
+                0.54,
+                -0.02,
+                0.98,
+                0.48
+              ]
+            },
+            {
+              "frame": 1.1333333333333333,
+              "value": 450
+            }
+          ]
+        }
+      },
+      "goldLabel_bg": {
+        "props": {
+          "y": [
+            {
+              "frame": 0.7,
+              "value": -645
+            },
+            {
+              "frame": 1,
+              "value": -439
+            }
+          ]
+        }
+      },
+      "uiLayer/LeftList/view/content/icon_tower_2": {
+        "props": {
+          "x": [
+            {
+              "frame": 0.3333333333333333,
+              "value": -223,
+              "curve": [
+                0.16,
+                0.43,
+                0.52,
+                1.33
+              ]
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": -4
+            }
+          ]
+        }
+      },
+      "uiLayer/LeftList/view/content/icon_tower_3": {
+        "props": {
+          "x": [
+            {
+              "frame": 0.45000000000000007,
+              "value": -227,
+              "curve": [
+                0.12,
+                0.51,
+                0.55,
+                1.53
+              ]
+            },
+            {
+              "frame": 0.85,
+              "value": -9
+            }
+          ]
+        }
+      },
+      "uiLayer/LeftList/view/content/icon_tower_0": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": -222,
+              "curve": [
+                0.06,
+                0.45,
+                0.41,
+                1.35
+              ]
+            },
+            {
+              "frame": 0.23333333333333334,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}
