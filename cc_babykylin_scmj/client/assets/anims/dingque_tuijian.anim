@@ -1,0 +1,54 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "dingque_tuijian",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.2,
+  "sample": 5,
+  "speed": 1,
+  "wrapMode": 22,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {}
+    },
+    "props": {
+      "scaleX": [
+        {
+          "frame": 0,
+          "value": 0.95
+        },
+        {
+          "frame": 0.4,
+          "value": 1.1
+        },
+        {
+          "frame": 0.8,
+          "value": 0.95
+        },
+        {
+          "frame": 1.2,
+          "value": 1.1
+        }
+      ],
+      "scaleY": [
+        {
+          "frame": 0,
+          "value": 0.95
+        },
+        {
+          "frame": 0.4,
+          "value": 1.1
+        },
+        {
+          "frame": 0.8,
+          "value": 0.95
+        },
+        {
+          "frame": 1.2,
+          "value": 1.1
+        }
+      ]
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,97 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "play_xiayu",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.1666666666666667,
+  "sample": 6,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "7498f8b2-3d65-47a5-a5dc-3f484a6e5f42"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "72f3f982-810b-4ca7-8662-602d2424e179"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "dfd021b3-5669-4e73-8a28-5e16a579e110"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "38d62777-d02a-4b17-a3f0-493cc47d334e"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "2ad8e984-fb49-4a51-ac0f-46bb27251f6e"
+            }
+          },
+          {
+            "frame": 0.8333333333333334,
+            "value": {
+              "__uuid__": "667bb892-2b32-4444-9750-6c7dfa65b275"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "667bb892-2b32-4444-9750-6c7dfa65b275"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "opacity": [
+        {
+          "frame": 0.16666666666666666,
+          "value": 255
+        },
+        {
+          "frame": 0.8333333333333334,
+          "value": 255
+        },
+        {
+          "frame": 1,
+          "value": 0
+        }
+      ],
+      "scaleX": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 0.16666666666666666,
+          "value": 0.8
+        }
+      ],
+      "scaleY": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 0.16666666666666666,
+          "value": 0.8
+        }
+      ]
+    }
+  },
+  "events": []
+}

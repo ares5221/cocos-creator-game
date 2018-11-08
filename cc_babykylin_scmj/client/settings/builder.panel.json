@@ -1,0 +1,13 @@
+{
+  "excludeScenes": [],
+  "packageName": "org.cocos2d.helloworld",
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "title": "HelloWorld",
+  "orientation": {
+    "landscapeRight": true,
+    "landscapeLeft": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "webOrientation": "auto"
+}

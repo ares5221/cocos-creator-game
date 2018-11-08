@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "5eec799d-19eb-4553-9382-2ac0e65e63be",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "fangkaxiaobeijing": {
+      "ver": "1.0.3",
+      "uuid": "56be11b4-9c6a-4350-b4ab-d660a127e72e",
+      "rawTextureUuid": "5eec799d-19eb-4553-9382-2ac0e65e63be",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 255,
+      "height": 45,
+      "rawWidth": 255,
+      "rawHeight": 45,
+      "borderTop": 20,
+      "borderBottom": 20,
+      "borderLeft": 25,
+      "borderRight": 25,
+      "subMetas": {}
+    }
+  }
+}

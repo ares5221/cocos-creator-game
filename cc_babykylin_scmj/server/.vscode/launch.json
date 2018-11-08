@@ -1,0 +1,85 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "账号服",
+            "type": "node",
+            "request": "launch",
+            "program": "${workspaceRoot}/account_server/app.js",
+            "stopOnEntry": false,
+            "args": ["${workspaceRoot}/configs_mac.js"],
+            "cwd": "${workspaceRoot}",
+            "preLaunchTask": null,
+            "runtimeExecutable": null,
+            "runtimeArgs": [
+                "--nolazy"
+            ],
+            "env": {
+                "NODE_ENV": "development"
+            },
+            "externalConsole": false,
+            "sourceMaps": false,
+            "outDir": null
+        },
+        {
+            "name": "大厅服",
+            "type": "node",
+            "request": "launch",
+            "program": "${workspaceRoot}/hall_server/app.js",
+            "stopOnEntry": false,
+            "args": ["${workspaceRoot}/configs_mac.js"],
+            "cwd": "${workspaceRoot}",
+            "preLaunchTask": null,
+            "runtimeExecutable": null,
+            "runtimeArgs": [
+                "--nolazy"
+            ],
+            "env": {
+                "NODE_ENV": "development"
+            },
+            "externalConsole": false,
+            "sourceMaps": false,
+            "outDir": null
+        },
+        {
+            "name": "麻将服",
+            "type": "node",
+            "request": "launch",
+            "program": "${workspaceRoot}/game_server/app.js",
+            "stopOnEntry": false,
+            "args": ["${workspaceRoot}/configs_mac.js"],
+            "cwd": "${workspaceRoot}",
+            "preLaunchTask": null,
+            "runtimeExecutable": null,
+            "runtimeArgs": [
+                "--nolazy"
+            ],
+            "env": {
+                "NODE_ENV": "development"
+            },
+            "externalConsole": false,
+            "sourceMaps": false,
+            "outDir": null
+        },
+        {
+            "name": "捕鱼服",
+            "type": "node",
+            "request": "launch",
+            "program": "${workspaceRoot}/fishing_server/app.js",
+            "stopOnEntry": false,
+            "args": ["${workspaceRoot}/configs_mac.js"],
+            "cwd": "${workspaceRoot}",
+            "preLaunchTask": null,
+            "runtimeExecutable": null,
+            "runtimeArgs": [
+                "--nolazy"
+            ],
+            "env": {
+                "NODE_ENV": "development"
+            },
+            "externalConsole": false,
+            "sourceMaps": false,
+            "outDir": null
+        },
+    ]
+}

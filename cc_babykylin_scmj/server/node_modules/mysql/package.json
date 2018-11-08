@@ -1,0 +1,115 @@
+{
+  "name": "mysql",
+  "description": "A node.js driver for mysql. It is written in JavaScript, does not require compiling, and is 100% MIT licensed.",
+  "version": "2.11.1",
+  "license": "MIT",
+  "author": {
+    "name": "Felix Geisendörfer",
+    "email": "felix@debuggable.com",
+    "url": "http://debuggable.com/"
+  },
+  "contributors": [
+    {
+      "name": "Andrey Sidorov",
+      "email": "sidorares@yandex.ru"
+    },
+    {
+      "name": "Douglas Christopher Wilson",
+      "email": "doug@somethingdoug.com"
+    },
+    {
+      "name": "Diogo Resende",
+      "email": "dresende@thinkdigital.pt"
+    },
+    {
+      "name": "Nathan Woltman",
+      "email": "nwoltman@outlook.com"
+    }
+  ],
+  "homepage": "https://github.com/felixge/node-mysql",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felixge/node-mysql.git"
+  },
+  "dependencies": {
+    "bignumber.js": "2.3.0",
+    "readable-stream": "1.1.14",
+    "sqlstring": "2.0.1"
+  },
+  "devDependencies": {
+    "after": "0.8.1",
+    "eslint": "2.11.1",
+    "istanbul": "0.4.3",
+    "require-all": "2.0.0",
+    "rimraf": "2.2.8",
+    "timezone-mock": "0.0.0",
+    "mkdirp": "0.5.1",
+    "urun": "0.0.8",
+    "utest": "0.0.8"
+  },
+  "files": [
+    "lib/",
+    "Changes.md",
+    "License",
+    "Readme.md",
+    "index.js"
+  ],
+  "engines": {
+    "node": ">= 0.6"
+  },
+  "scripts": {
+    "lint": "eslint lib/**/*.js index.js test/**/*.js",
+    "test": "node test/run.js",
+    "test-ci": "node test/run-cov.js lcovonly",
+    "test-cov": "node test/run-cov.js"
+  },
+  "gitHead": "3c7b1616ac31dd2c37843110ad10af2b149bf13f",
+  "bugs": {
+    "url": "https://github.com/felixge/node-mysql/issues"
+  },
+  "_id": "mysql@2.11.1",
+  "_shasum": "7bdbfda477141fd15eeec2b710320c0d20ce7d08",
+  "_from": "mysql@latest",
+  "_npmVersion": "2.15.1",
+  "_nodeVersion": "4.4.3",
+  "_npmUser": {
+    "name": "dougwilson",
+    "email": "doug@somethingdoug.com"
+  },
+  "dist": {
+    "shasum": "7bdbfda477141fd15eeec2b710320c0d20ce7d08",
+    "tarball": "https://registry.npmjs.org/mysql/-/mysql-2.11.1.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "dougwilson",
+      "email": "doug@somethingdoug.com"
+    },
+    {
+      "name": "felixge",
+      "email": "felix@debuggable.com"
+    },
+    {
+      "name": "nate.lillich",
+      "email": "natalie@lifewanted.com"
+    },
+    {
+      "name": "seanmonstar",
+      "email": "sean.monstar@gmail.com"
+    },
+    {
+      "name": "sidorares",
+      "email": "sidorares@yandex.com"
+    },
+    {
+      "name": "tolgaek",
+      "email": "tolga.ekmen@gmail.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/mysql-2.11.1.tgz_1465353469934_0.8884453533682972"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/mysql/-/mysql-2.11.1.tgz"
+}

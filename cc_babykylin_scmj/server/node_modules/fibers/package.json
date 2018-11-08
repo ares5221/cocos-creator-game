@@ -1,0 +1,100 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "fibers",
+        "scope": null,
+        "escapedName": "fibers",
+        "name": "fibers",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "F:\\QQPCmgr\\Desktop\\server"
+    ]
+  ],
+  "_from": "fibers@latest",
+  "_id": "fibers@1.0.15",
+  "_inCache": true,
+  "_location": "/fibers",
+  "_nodeVersion": "6.5.0",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/fibers-1.0.15.tgz_1475775502850_0.722931124502793"
+  },
+  "_npmUser": {
+    "name": "laverdet",
+    "email": "marcel.npm@laverdet.com"
+  },
+  "_npmVersion": "3.10.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "fibers",
+    "scope": null,
+    "escapedName": "fibers",
+    "name": "fibers",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/fibers/-/fibers-1.0.15.tgz",
+  "_shasum": "22f039c8f18b856190fbbe4decf056154c1eae9c",
+  "_shrinkwrap": null,
+  "_spec": "fibers",
+  "_where": "F:\\QQPCmgr\\Desktop\\server",
+  "author": {
+    "name": "Marcel Laverdet",
+    "email": "marcel@laverdet.com",
+    "url": "https://github.com/laverdet/"
+  },
+  "bugs": {
+    "url": "https://github.com/laverdet/node-fibers/issues"
+  },
+  "dependencies": {},
+  "description": "Cooperative multi-tasking for Javascript",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "22f039c8f18b856190fbbe4decf056154c1eae9c",
+    "tarball": "https://registry.npmjs.org/fibers/-/fibers-1.0.15.tgz"
+  },
+  "engines": {
+    "node": ">=0.5.2"
+  },
+  "gitHead": "8d7e4ffeb5151ade2ef32455080fbb2ffc226e13",
+  "homepage": "https://github.com/laverdet/node-fibers",
+  "keywords": [
+    "fiber",
+    "fibers",
+    "coroutine",
+    "thread",
+    "async",
+    "parallel",
+    "worker",
+    "future",
+    "promise"
+  ],
+  "license": "MIT",
+  "main": "fibers",
+  "maintainers": [
+    {
+      "name": "laverdet",
+      "email": "marcel.npm@laverdet.com"
+    }
+  ],
+  "name": "fibers",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/laverdet/node-fibers.git"
+  },
+  "scripts": {
+    "install": "node build.js || nodejs build.js",
+    "test": "node test.js || nodejs test.js"
+  },
+  "version": "1.0.15"
+}

@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "jiong",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1,
+  "sample": 6,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "3d241371-739e-4441-963c-b0159a01a19e"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "5dec5a15-1c35-46ca-94a1-df6f0d024e29"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "dee9b327-1443-40c8-ab14-76110c4bae92"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "04ddd588-57c3-4d45-8322-0bb2eb8e0dd1"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "7635d991-faef-4770-bd40-3a3eebb3b281"
+            }
+          },
+          {
+            "frame": 0.8333333333333334,
+            "value": {
+              "__uuid__": "4cf4ed66-5b23-4410-ad0e-ddeac313e067"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
