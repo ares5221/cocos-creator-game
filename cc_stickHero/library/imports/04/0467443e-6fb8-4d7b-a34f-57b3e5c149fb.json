@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "GreenMonster",
+    "texture": "08c1edea-46d4-41de-99dd-4f8b7f6b43b3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      68,
+      71
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      68,
+      71
+    ]
+  }
+}

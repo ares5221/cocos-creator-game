@@ -1,0 +1,12 @@
+{
+  "version": 3,
+  "sources": [
+    "unknown"
+  ],
+  "names": [],
+  "mappings": "AAAA,IAAI,cAAc,GAAG,CAAC,YAAW;AAC7B,QAAI,gBAAgB,GAAG,IAAI,CAAC;AAC5B,QAAG,CAAC,EAAE,CAAC,GAAG,CAAC,YAAY,CAAC,YAAY,EACpC;AACI,UAAE,CAAC,GAAG,CAAC,YAAY,CAAC,YAAY,GAAG,CAAC,CAAC;KACxC;AACD,WAAO;AACH,uBAAe,EAAC,2BAAU;AACtB,mBAAO,EAAE,CAAC,GAAG,CAAC,YAAY,CAAC,YAAY,CAAC;SAC3C;AACD,uBAAe,EAAC,yBAAS,KAAK,EAAC;AAC3B,cAAE,CAAC,GAAG,CAAC,YAAY,CAAC,YAAY,GAAG,KAAK,CAAC;SAC5C;KACJ,CAAC;CACL,CAAA,EAAG,CAAC;AACL,MAAM,CAAC,OAAO,GAAG,cAAc,CAAC",
+  "file": "unknown",
+  "sourcesContent": [
+    "var storageManager = (function (){\n    var spriteFrameCache = null;\n    if(!cc.sys.localStorage.highestScore)\n    {\n        cc.sys.localStorage.highestScore = 0;\n    }\n    return {\n        getHighestScore:function(){\n            return cc.sys.localStorage.highestScore;\n        },\n        setHighestScore:function(score){\n            cc.sys.localStorage.highestScore = score;\n        }\n    };\n})();\nmodule.exports = storageManager;"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "sheep_run",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.3,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "7ccb784f-7c51-4a0b-a59e-e95da40f3013"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "c2037678-65b3-4b0b-8b66-fee835a46f94"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "9563cb61-be04-40b0-9b0a-c721c057f21d"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "73034713-ab4b-4fba-953b-5f7d4c36320c"
+            }
+          }
+        ]
+      }
+    },
+    "props": {}
+  },
+  "events": []
+}

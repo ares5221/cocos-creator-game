@@ -1,0 +1,12 @@
+{
+  "version": 3,
+  "sources": [
+    "unknown"
+  ],
+  "names": [],
+  "mappings": "AAAA,EAAE,CAAC,KAAK,CAAC;AACL,eAAS,EAAE,CAAC,SAAS;;AAErB,cAAU,EAAE,EAEX;;;AAGD,UAAM,EAAE,kBAAY;AAChB,YAAI,SAAS,GAAG,IAAI,IAAI,CAAC,IAAI,CAAC,MAAM,EAAE,GAAC,GAAG,GAAC,CAAC,CAAA,GAAE,CAAC,GAAC,CAAC,CAAA,AAAC,CAAC;AACnD,YAAI,QAAQ,GAAG,IAAI,CAAC,IAAI,CAAC,YAAY,CAAC,EAAE,CAAC,MAAM,CAAC,CAAC;AACjD,UAAE,CAAC,MAAM,CAAC,OAAO,CAAC,OAAO,GAAC,SAAS,EAAE,EAAE,CAAC,WAAW,EAAE,UAAC,GAAG,EAAE,WAAW,EAAK;AACvE,oBAAQ,CAAC,WAAW,GAAG,WAAW,CAAC;SACtC,CAAC,CAAC;AACH,UAAE,CAAC,GAAG,CAAC,SAAS,CAAC,CAAC;KACrB;CAKJ,CAAC,CAAC",
+  "file": "unknown",
+  "sourcesContent": [
+    "cc.Class({\n    extends: cc.Component,\n\n    properties: {\n        \n    },\n\n    // use this for initialization\n    onLoad: function () {\n        var randomNum = \"bg\" + ((Math.random()*100|0)%3+1);\n        var bgSprite = this.node.getComponent(cc.Sprite);\n        cc.loader.loadRes(\"hero/\"+randomNum, cc.SpriteFrame, (err, SpriteFrame) => {\n            bgSprite.spriteFrame = SpriteFrame;\n        });\n        cc.log(randomNum);\n    },\n    // called every frame, uncomment this function to activate update callback\n    // update: function (dt) {\n\n    // },\n});\n"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "sliderTrack2",
+    "texture": "9c5ee18c-5b09-4726-b23b-e46e49a1b008",
+    "atlas": "55ddbcf7-08e2-4fe0-a2b2-b9ab73af649d",
+    "rect": [
+      1,
+      43,
+      131,
+      13
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      131,
+      13
+    ]
+  }
+}

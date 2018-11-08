@@ -1,0 +1,12 @@
+{
+  "version": 3,
+  "sources": [
+    "unknown"
+  ],
+  "names": [],
+  "mappings": "AAAA,IAAI,GAAG,GAAE,OAAO,CAAC,WAAW,CAAC,CAAC;AAC9B,EAAE,CAAC,KAAK,CAAC;AACL,eAAS,EAAE,CAAC,SAAS;;AAErB,cAAU,EAAE;;;;;;;;;;;KAWX;;;AAGD,UAAM,EAAE,kBAAY,EAEnB;;AAED,iBAAa,EAAA,yBAAE;AACX,WAAG,CAAC,OAAO,EAAE,CAAC;KACjB;AACD,aAAS,EAAA,qBAAE;AACP,UAAE,CAAC,QAAQ,CAAC,SAAS,CAAC,eAAe,CAAC,CAAC;KAC1C;CACJ,CAAC,CAAC",
+  "file": "unknown",
+  "sourcesContent": [
+    "var fsm =require(\"landMaker\");\ncc.Class({\n    extends: cc.Component,\n\n    properties: {\n        // foo: {\n        //    default: null,      // The default value will be used only when the component attaching\n        //                           to a node for the first time\n        //    url: cc.Texture2D,  // optional, default is typeof default\n        //    serializable: true, // optional, default is true\n        //    visible: true,      // optional, default is true\n        //    displayName: 'Foo', // optional\n        //    readonly: false,    // optional, default is false\n        // },\n        // ...\n    },\n\n    // use this for initialization\n    onLoad: function () {\n\n    },\n\n    buttonClicked(){\n        fsm.restart();\n    },\n    gameStart(){\n        cc.director.loadScene(\"MainGameScene\");\n    }\n});\n"
+  ]
+}

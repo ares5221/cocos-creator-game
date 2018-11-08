@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "scrollview_barBg",
+    "texture": "271269d4-6d55-40c8-b0bc-13b75a920423",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      19,
+      22
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      19,
+      22
+    ],
+    "capInsets": [
+      5,
+      6,
+      5,
+      8
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "version": 3,
+  "sources": [
+    "unknown"
+  ],
+  "names": [],
+  "mappings": "AAAA,EAAE,CAAC,KAAK,CAAC;AACL,eAAS,EAAE,CAAC,SAAS;;AAErB,cAAU,EAAE,EAEX;;;AAGD,UAAM,EAAE,kBAAY;AAChB,YAAI,CAAC,IAAI,GAAG,IAAI,CAAC,IAAI,CAAC,YAAY,CAAC,EAAE,CAAC,SAAS,CAAC,CAAC;AACjD,YAAI,CAAC,KAAK,GAAG,IAAI,CAAC,IAAI,CAAC,YAAY,CAAC,EAAE,CAAC,KAAK,CAAC,CAAC;KACjD;AACD,eAAW,EAAA,qBAAC,KAAK,EAAC;AACd,YAAI,CAAC,KAAK,CAAC,MAAM,GAAG,WAAW,GAAG,KAAK,CAAC;AACxC,YAAI,YAAY,GAAG,EAAE,CAAC,MAAM,CAAC,GAAG,CAAC,CAAC;AAClC,YAAI,UAAU,GAAG,EAAE,CAAC,MAAM,CAAC,CAAC,EAAC,EAAE,CAAC,CAAC,CAAC,CAAC,EAAC,CAAC,CAAC,CAAC,CAAC;AACxC,YAAI,aAAa,GAAG,EAAE,CAAC,OAAO,CAAC,CAAC,CAAC,CAAC;AAClC,YAAI,GAAG,GAAG,EAAE,CAAC,QAAQ,CAAC,YAAY,EAAC,UAAU,EAAC,aAAa,CAAC,CAAC;AAC7D,YAAI,CAAC,IAAI,CAAC,SAAS,CAAC,GAAG,CAAC,CAAC;;;KAG5B;AACD,eAAW,EAAA,uBAAE;;;AAGT,UAAE,CAAC,GAAG,CAAC,aAAa,CAAC,CAAC;KACzB;AACD,aAAS,EAAA,qBAAE;;;AAGP,UAAE,CAAC,GAAG,CAAC,WAAW,CAAC,CAAC;KACvB;CACJ,CAAC,CAAC",
+  "file": "unknown",
+  "sourcesContent": [
+    "cc.Class({\n    extends: cc.Component,\n\n    properties: {\n        \n    },\n\n    // use this for initialization\n    onLoad: function () {\n        this.anim = this.node.getComponent(cc.Animation);\n        this.label = this.node.getComponent(cc.Label);\n    },\n    showPerfect(count){\n        this.label.string = \"Perfect x\" + count;\n        var fadeInAction = cc.fadeIn(0.1);\n        var moveAction = cc.moveBy(1,cc.p(0,0));\n        var fadeOutAction = cc.fadeOut(0);\n        var seq = cc.sequence(fadeInAction,moveAction,fadeOutAction);\n        this.node.runAction(seq);\n        //has bug.  web will 花屏...\n        // this.anim.play(\"perfect_anim\");\n    },\n    removeLabel(){\n        // this.node.x = -100;\n        // this.node.y = -100;\n        cc.log(\"removeLabel\");\n    },\n    showLabel(){\n        // this.node.x = cc.director.getWinSize().width/2;\n        // this.node.y = cc.director.getWinSize().height/2;\n        cc.log(\"showLabel\");\n    }\n});\n"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "ui.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "CheckBoxNode_Disable": {
+      "__uuid__": "974e77fc-01b1-4828-be55-a5adc76e15c6"
+    },
+    "CheckBoxNode_Normal": {
+      "__uuid__": "fd8fcb0a-429d-495b-8bf1-76027880f06b"
+    },
+    "CheckBox_Disable": {
+      "__uuid__": "55b9cd01-551c-48f1-a9d7-6e940c7ac81d"
+    },
+    "CheckBox_Normal": {
+      "__uuid__": "6f48c6a4-606a-45f9-bcca-fa269dee0060"
+    },
+    "CheckBox_Press": {
+      "__uuid__": "79a0b94a-3b68-47cb-b94a-d0dbadf0788b"
+    },
+    "radio_button_off": {
+      "__uuid__": "1b3109fa-d7db-4c0c-a236-92eeb51e1972"
+    },
+    "radio_button_on": {
+      "__uuid__": "3387601e-3d35-446c-8972-d38ef90d8d2e"
+    },
+    "sliderProgress2": {
+      "__uuid__": "990be1b5-a3d9-4cb9-a5fa-51cd31fed591"
+    },
+    "sliderThumb": {
+      "__uuid__": "585f0220-7c2a-4b74-a562-a8eea45d5e9c"
+    },
+    "sliderTrack2": {
+      "__uuid__": "e9df0c26-631b-4dcc-aa69-cd136d2042c8"
+    }
+  }
+}

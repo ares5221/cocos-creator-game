@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "YellowMonster",
+    "texture": "15ade27e-0212-4775-b5e4-8a8a258e8b63",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      80,
+      71
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      80,
+      71
+    ]
+  }
+}

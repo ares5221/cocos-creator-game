@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "barFg",
+    "texture": "2d36c0f8-75c0-4569-8c3b-6c0676340644",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      15,
+      31
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      15,
+      31
+    ]
+  }
+}

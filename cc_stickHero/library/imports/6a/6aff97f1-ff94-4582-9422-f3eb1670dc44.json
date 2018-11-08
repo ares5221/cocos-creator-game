@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "filled_h_fg",
+    "texture": "70e86065-6677-4ab9-b63b-0117b4e60d76",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      402,
+      31
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      402,
+      31
+    ]
+  }
+}

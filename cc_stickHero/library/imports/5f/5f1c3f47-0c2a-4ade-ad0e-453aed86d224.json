@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "scrollviewbg",
+    "texture": "da3df600-014d-40e1-8d48-c3800523e5e3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      184,
+      180
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      184,
+      180
+    ],
+    "capInsets": [
+      12,
+      9,
+      15,
+      14
+    ]
+  }
+}

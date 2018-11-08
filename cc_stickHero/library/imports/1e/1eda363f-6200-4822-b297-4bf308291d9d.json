@@ -1,0 +1,17 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "emoji.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "emoji1": {
+      "__uuid__": "bc09c410-3796-4348-aab4-dc8750fec33f"
+    },
+    "emoji2": {
+      "__uuid__": "f3d82727-2391-4031-bd33-55f614523669"
+    },
+    "emoji3": {
+      "__uuid__": "505e368d-fa55-41f0-934a-4625cc196c6e"
+    }
+  }
+}

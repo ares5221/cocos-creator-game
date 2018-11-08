@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "radio_button_off",
+    "texture": "9c5ee18c-5b09-4726-b23b-e46e49a1b008",
+    "atlas": "55ddbcf7-08e2-4fe0-a2b2-b9ab73af649d",
+    "rect": [
+      187,
+      14,
+      30,
+      32
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      32,
+      32
+    ],
+    "capInsets": [
+      6,
+      9,
+      6,
+      9
+    ]
+  }
+}

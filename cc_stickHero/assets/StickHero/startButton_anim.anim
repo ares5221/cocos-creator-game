@@ -1,0 +1,33 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "startButton_anim",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 6,
+  "sample": 2,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "y": [
+        {
+          "frame": 0,
+          "value": 80
+        },
+        {
+          "frame": 1.5,
+          "value": 100
+        },
+        {
+          "frame": 4.5,
+          "value": 60
+        },
+        {
+          "frame": 6,
+          "value": 80
+        }
+      ]
+    }
+  },
+  "events": []
+}
