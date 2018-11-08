@@ -4,6 +4,8 @@
 
 老少爷们，有钱的捧个钱场没钱的捧个人场
 
-![image](https://github.com/ares5221/cocos-creator-game/blob/master/moneypay/1541139462099.jpg)
+
 ![image](https://github.com/ares5221/cocos-creator-game/blob/master/moneypay/wx.jpg)
 ![image](https://github.com/ares5221/cocos-creator-game/blob/master/moneypay/zfb.jpg)
+
+![image](https://github.com/ares5221/cocos-creator-game/blob/master/moneypay/1541139462099.jpg)
