@@ -1,0 +1,54 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "effect_hammer",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.5,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "Hammer": {
+        "props": {
+          "rotation": [
+            {
+              "frame": 0,
+              "value": 0,
+              "curve": [
+                0.18,
+                0.89,
+                0.31,
+                1.21
+              ]
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": 30,
+              "curve": "expoIn"
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": -30
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 255
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

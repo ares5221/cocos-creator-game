@@ -1,0 +1,47 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "effect_score",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.25,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": "1",
+  "curveData": {
+    "props": {
+      "scale": [
+        {
+          "frame": 0,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 1,
+            "y": 1
+          },
+          "curve": [
+            0.8918013856812931,
+            -0.0002309468822170313,
+            1.0031177829099307,
+            0.6018475750577366
+          ]
+        },
+        {
+          "frame": 0.13333333333333333,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 1.5,
+            "y": 1.5
+          }
+        },
+        {
+          "frame": 0.25,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 1,
+            "y": 1
+          }
+        }
+      ]
+    }
+  },
+  "events": []
+}
